@@ -59,28 +59,31 @@ def load_data():
 
 df = load_data()
 
-# --- Sidebar für Filter ---
-# Passe die Filteranzeige so an, dass als erste Option "GER" angezeugt wird, gefolgt von allen anderen Namen in alphabetischer Reihenfolge
+# --- Filter oben unter dem Titel ---
+# Passe die Filteranzeige so an, dass als erste Option "GER" angezeigt wird, gefolgt von allen anderen Namen in alphabetischer Reihenfolge.
+# Erlaube eine mehrfache Auswahl von Namen, damit die Startzeiten für mehrere Namen gleichzeitig angezeigt werden können.
+# Die ausgewählten Namen sollen in der Anzeige fett dargestellt werden.
 
-with st.sidebar:
-    st.header("🔍 Filter")
-    all_names = sorted(
-        {
-            name.strip()
-            for names in df["Name"].dropna()
-            for name in str(names).split(",")
-        }
-    )
-    all_names = ["GER"] + [name for name in all_names if name != "GER"]
-    selected = st.selectbox("Choose a name:", all_names)
+st.header("🔍 Filter")
+all_names = sorted(
+    {name.strip() for names in df["Name"].dropna() for name in str(names).split(",")}
+)
+all_names = ["GER"] + [name for name in all_names if name != "GER"]
+selected_names = st.multiselect("Choose names:", all_names, default=["GER"])
 
+if selected_names:
     filter_condition = df["Name"].apply(
         lambda x: (
-            selected in [name.strip() for name in str(x).split(",")]
+            any(
+                selected in [name.strip() for name in str(x).split(",")]
+                for selected in selected_names
+            )
             if pd.notna(x)
             else False
         )
     )
+else:
+    filter_condition = pd.Series(False, index=df.index)
 
 # --- Daten filtern und sortieren ---
 filtered_df = df[filter_condition].sort_values(["Datum", "Uhrzeit"])
@@ -137,8 +140,15 @@ for date, date_name, weekday in zip(all_dates, all_dates_names, all_dates_weekda
             elif "Men" in category:
                 row_style = "background-color:#e6f0ff;"
 
+            name_value = str(row["Name"])
+            name_parts = [part.strip() for part in name_value.split(",")]
+            formatted_name = ", ".join(
+                f"<strong>{part}</strong>" if part in selected_names else part
+                for part in name_parts
+            )
+
             row_cells = "".join(
-                f"<td style='padding:6px; border:none; text-align:left;'>{str(row[col])}</td>"
+                f"<td style='padding:6px; border:none; text-align:left;'>{str(row[col]) if col != 'Name' else formatted_name}</td>"
                 for col in ["Uhrzeit", "Kategorie", "Runde", "Name"]
             )
             rows.append(f"<tr style='{row_style}'>{row_cells}</tr>")
