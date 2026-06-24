@@ -183,7 +183,9 @@ for date, date_name, weekday in zip(all_dates, all_dates_names, all_dates_weekda
 st.markdown("---")
 st.caption("IVF Va'a World Elite and Club Sprint Championship 2026 | Singapore")
 st.caption("Data Source: Event Schedule 26 April 2026 - from IVF Website")
-st.caption("Data Source: Event Schedule 22 June 2026 - from IVF Website")
+st.caption(
+    "Data Source: Event Schedule 22 June 2026 - from [IVF Website...](https://www.kanu.de/-Vaa-World-Sprint-Championships-2026-Nationalteam-ist-komplett-94564.html)"
+)
 # Write Website as link to https://www.kanu.de/-Vaa-World-Sprint-Championships-2026-Nationalteam-ist-komplett-94564.html
 st.caption(
     "Data Source: DKV National Team Nominations - from [DKV Website...](https://www.kanu.de/-Vaa-World-Sprint-Championships-2026-Nationalteam-ist-komplett-94564.html)"
