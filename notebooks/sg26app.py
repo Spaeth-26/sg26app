@@ -15,11 +15,30 @@ st.markdown("""
 These are the start times for the selected name. Choose a different name to view the start times for that name.
 """)
 
+# Füge eine Auswahl mit Radio-Buttons hinzu, um zwischen Timeschedule April und June zu wechseln. Standardmäßig ist Timeschedule June ausgewählt.
+timeschedule_option = st.radio(
+    "Choose Timeschedule:",
+    ("Timeschedule April 2026", "Timeschedule June 2026"),
+    index=1,
+)
+# Wenn die Auswahl neu getroffen wird, sollen die Daten neu eingelesen werden
+
 
 # --- CSV-Datei laden ---
+# Wähle die CSV-Datei basierend auf der Auswahl im Radio-Button. Wenn "Timeschedule April 2026" ausgewählt ist, lade "SG26_timeschedule_with_names_april26.csv", andernfalls lade "SG26_timeschedule_with_names_june22.csv".
+
+
 @st.cache_data  # Cache die Daten, um Ladezeiten zu reduzieren
-def load_data():
-    data_path = Path(__file__).resolve().parent / "SG26_timeschedule_with_names.csv"
+def load_data(selected_timeschedule: str):
+    # data_path = Path(__file__).resolve().parent / "SG26_timeschedule_with_names.csv"
+    if selected_timeschedule == "Timeschedule April 2026":
+        data_path = (
+            Path(__file__).resolve().parent / "SG26_timeschedule_with_names_april26.csv"
+        )
+    else:
+        data_path = (
+            Path(__file__).resolve().parent / "SG26_timeschedule_with_names_june22.csv"
+        )
     df = pd.read_csv(data_path, sep=";", engine="python", encoding="utf-8")
 
     # Datum in datetime umwandeln und Wochentag hinzufügen
@@ -57,7 +76,7 @@ def load_data():
     return df
 
 
-df = load_data()
+df = load_data(timeschedule_option)
 
 # --- Filter oben unter dem Titel ---
 # Passe die Filteranzeige so an, dass als erste Option "GER" angezeigt wird, gefolgt von allen anderen Namen in alphabetischer Reihenfolge.
@@ -163,4 +182,6 @@ for date, date_name, weekday in zip(all_dates, all_dates_names, all_dates_weekda
 # --- Footer ---
 st.markdown("---")
 st.caption("IVF Va'a World Elite and Club Sprint Championship 2026 | Singapore")
-st.caption("Data Source: Event Schedule April 2026 - from IVF Website")
+st.caption("Data Source: Event Schedule 26 April 2026 - from IVF Website")
+st.caption("Data Source: Event Schedule 22 June 2026 - from IVF Website")
+st.caption("Florian Späth - 2026")

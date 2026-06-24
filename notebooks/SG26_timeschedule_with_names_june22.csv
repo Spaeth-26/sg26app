@@ -1,0 +1,604 @@
+RACE;CLASS;BOAT;DISTANCE;ROUND;DATE;START;PROGRESSIONS;NAME
+1;Elite Para Mixed;V6;500;St. Final;20 Aug 2026;8:00 am;;
+2;Elite Men;V6;500;Heat 1 / 4;20 Aug 2026;8:10 am;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+3;Master 60 Women;V1;500;Heat 1 / 5;20 Aug 2026;8:17 am;;GER, Ingrid Juchem, Birgit Plank
+4;Elite Men;V6;500;Heat 2 / 4;20 Aug 2026;8:22 am;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+5;Elite Men;V6;500;Heat 3 / 4;20 Aug 2026;8:29 am;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+6;Master 60 Women;V1;500;Heat 2 / 5;20 Aug 2026;8:36 am;;GER, Ingrid Juchem, Birgit Plank
+7;Elite Men;V6;500;Heat 4 / 4;20 Aug 2026;8:41 am;See Race 057;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+8;Elite Junior Women;V6;500;Heat 1 / 2;20 Aug 2026;8:48 am;;
+9;Master 60 Women;V1;500;Heat 3 / 5;20 Aug 2026;8:55 am;;GER, Ingrid Juchem, Birgit Plank
+10;Elite Junior Women;V6;500;Heat 2 / 2;20 Aug 2026;9:00 am;See Race 052;
+11;Elite Junior Men;V6;500;Heat 1 / 2;20 Aug 2026;9:07 am;;
+12;Master 60 Women;V1;500;Heat 4 / 5;20 Aug 2026;9:14 am;;GER, Ingrid Juchem, Birgit Plank
+13;Elite Junior Men;V6;500;Heat 2 / 2;20 Aug 2026;9:19 am;See Race 047;
+14;Elite Women;V6;500;Heat 1 / 4;20 Aug 2026;9:26 am;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+15;Master 60 Women;V1;500;Heat 5 / 5;20 Aug 2026;9:33 am;See Race 080;GER, Ingrid Juchem, Birgit Plank
+16;Elite Men;V1;2 500;Heat 1 / 2;20 Aug 2026;9:38 am;;
+17;Elite Women;V6;500;Heat 2 / 4;20 Aug 2026;9:45 am;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+18;Master 60 Men;V1;500;Heat 1 / 5;20 Aug 2026;9:52 am;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+19;Elite Men;V1;2 500;Heat 2 / 2;20 Aug 2026;9:57 am;See Race 062;
+20;Elite Women;V6;500;Heat 3 / 4;20 Aug 2026;10:04 am;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+21;Master 60 Men;V1;500;Heat 2 / 5;20 Aug 2026;10:11 am;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+22;Elite Women;V6;500;Heat 4 / 4;20 Aug 2026;10:16 am;See Race 054;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+23;Elite Junior Women;V6;1000;Heat 1 / 2;20 Aug 2026;10:23 am;;
+24;Master 60 Men;V1;500;Heat 3 / 5;20 Aug 2026;10:33 am;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+25;Elite Junior Women;V6;1000;Heat 2 / 2;20 Aug 2026;10:38 am;See Race 063;
+26;Master 60 Men;V1;500;Heat 4 / 5;20 Aug 2026;10:48 am;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+27;Elite Women;V1;2 500;Heat 1 / 2;20 Aug 2026;10:53 am;;
+28;Elite Junior Men;V6;1000;Heat 1 / 2;20 Aug 2026;11:00 am;;
+29;Master 60 Men;V1;500;Heat 5 / 5;20 Aug 2026;11:10 am;See Race 083;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+30;Elite Junior Men;V6;1000;Heat 2 / 2;20 Aug 2026;11:15 am;See Race 065;
+31;Master 80 Men;V1;250;Heat 1 / 2;20 Aug 2026;11:25 am;;
+32;Master 80 Men;V1;250;Heat 2 / 2;20 Aug 2026;11:32 am;See Race 056;
+33;Elite Women;V1;2 500;Heat 2 / 2;20 Aug 2026;11:39 am;See Race 075;
+34;Elite Men;V6;1500;Heat 1 / 4;20 Aug 2026;11:46 am;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+35;Master 70 Women;V1;500;Heat 1 / 4;20 Aug 2026;11:58 am;;
+36;Elite Men;V6;1500;Heat 2 / 4;20 Aug 2026;12:03 pm;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+37;Master 70 Women;V1;500;Heat 2 / 4;20 Aug 2026;12:15 pm;;
+38;Elite Men;V6;1500;Heat 3 / 4;20 Aug 2026;12:20 pm;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+39;Master 70 Women;V1;500;Heat 3 / 4;20 Aug 2026;12:32 pm;;
+40;Elite Men;V6;1500;Heat 4 / 4;20 Aug 2026;12:37 pm;See Race 049;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+41;Elite Women;V6;1500;Heat 1 / 3;20 Aug 2026;12:49 pm;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+42;Master 70 Women;V1;500;Heat 4 / 4;20 Aug 2026;1:01 pm;See Race 181;
+43;Elite Women;V6;1500;Heat 2 / 3;20 Aug 2026;1:06 pm;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+44;Master 70 Men;V1;500;Heat 1 / 4;20 Aug 2026;1:18 pm;;GER, Volker Briel
+45;Elite Women;V6;1500;Heat 3 / 3;20 Aug 2026;1:23 pm;See Race 067;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+46;Master 70 Men;V1;500;Heat 2 / 4;20 Aug 2026;1:35 pm;;GER, Volker Briel
+47;Elite Junior Men;V6;500;Repechage 1 / 1;20 Aug 2026;1:40 pm;See Race 117;
+48;Master 70 Men;V1;500;Heat 3 / 4;20 Aug 2026;1:47 pm;;GER, Volker Briel
+49;Elite Men;V6;1500;Repechage 1 / 2;20 Aug 2026;1:52 pm;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+50;Master 70 Men;V1;500;Heat 4 / 4;20 Aug 2026;2:04 pm;See Race 178;GER, Volker Briel
+51;Elite Men;V6;1500;Repechage 2 / 2;20 Aug 2026;2:09 pm;See Race 073;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+52;Elite Junior Women;V6;500;Repechage 1 / 1;20 Aug 2026;2:21 pm;See Race 118;
+53;Elite Para Mixed;V6;1000;St. Final;20 Aug 2026;2:28 pm;;
+54;Elite Women;V6;500;Repechage 1 / 2;20 Aug 2026;2:38 pm;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+55;Elite Women;V6;500;Repechage 2 / 2;20 Aug 2026;2:45 pm;See Race 059;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+56;Master 80 Men;V1;250;Final;20 Aug 2026;2:52 pm;;
+57;Elite Men;V6;500;Repechage 1 / 2;20 Aug 2026;2:59 pm;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+58;Elite Men;V6;500;Repechage 2 / 2;20 Aug 2026;3:06 pm;See Race 103;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+59;Elite Women;V6;500;Semi 1 / 2;21 Aug 2026;8:00 am;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+60;Para Men (VL1);V1;250;St. Final;21 Aug 2026;8:07 am;;
+61;Elite Women;V6;500;Semi 2 / 2;21 Aug 2026;8:14 am;See Race 114;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+62;Elite Men;V1;2 500;Repechage 1 / 1;21 Aug 2026;8:21 am;See Race 079;
+63;Elite Junior Women;V6;1000;Repechage 1 / 1;21 Aug 2026;8:28 am;See Race 089;
+64;Master 75 Men;V1;500;Heat 1 / 3;21 Aug 2026;8:38 am;;
+65;Elite Junior Men;V6;1000;Repechage 1 / 1;21 Aug 2026;8:43 am;See Race 084;
+66;Elite Para Mixed;V1;2 500;St. Final;21 Aug 2026;8:53 am;;
+67;Elite Women;V6;1500;Repechage 1 / 2;21 Aug 2026;9:05 am;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+68;Master 75 Men;V1;500;Heat 2 / 3;21 Aug 2026;9:17 am;;
+69;Elite Women;V6;1500;Repechage 2 / 2;21 Aug 2026;9:22 am;See Race 092;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+70;Master 75 Men;V1;500;Heat 3 / 3;21 Aug 2026;9:34 am;See Race 090;
+71;Master 75 Women;V1;500;Heat 1 / 3;21 Aug 2026;9:39 am;;
+72;Para Men (VL2);V1;250;St. Final;21 Aug 2026;9:44 am;;
+73;Elite Men;V6;1500;Semi 1 / 2;21 Aug 2026;9:51 am;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+74;Master 75 Women;V1;500;Heat 2 / 3;21 Aug 2026;10:03 am;;
+75;Elite Women;V1;2 500;Repechage 1 / 1;21 Aug 2026;10:08 am;See Race 085;
+76;Para Men (VL3);V1;250;Heat 1 / 2;21 Aug 2026;10:15 am;;
+77;Elite Men;V6;1500;Semi 2 / 2;21 Aug 2026;10:22 am;See Race 087;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+78;Master 75 Women;V1;500;Heat 3 / 3;21 Aug 2026;10:34 am;See Race 095;
+79;Elite Men;V1;2 500;Final;21 Aug 2026;10:39 am;;
+80;Master 60 Women;V1;500;Repechage 1 / 2;21 Aug 2026;10:46 am;;GER, Ingrid Juchem, Birgit Plank
+81;Master 60 Women;V1;500;Repechage 2 / 2;21 Aug 2026;10:51 am;See Race 097;GER, Ingrid Juchem, Birgit Plank
+82;Para Men (VL3);V1;250;Heat 2 / 2;21 Aug 2026;10:56 am;See Race 115;
+83;Master 60 Men;V1;500;Repechage 1 / 2;21 Aug 2026;11:03 am;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+84;Elite Junior Men;V6;1000;Final;21 Aug 2026;11:08 am;;
+85;Elite Women;V1;2 500;Final;21 Aug 2026;11:18 am;;
+86;Para Men (VL4);V1;250;Heat 1 / 2;21 Aug 2026;11:25 am;;
+87;Elite Men;V6;1500;Final;21 Aug 2026;11:32 am;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+88;Master 60 Men;V1;500;Repechage 2 / 2;21 Aug 2026;11:44 am;See Race 107;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+89;Elite Junior Women;V6;1000;Final;21 Aug 2026;11:49 am;;
+90;Master 75 Men;V1;500;Repechage 1 / 1;21 Aug 2026;11:59 am;See Race 312;
+91;Para Men (VL4);V1;250;Heat 2 / 2;21 Aug 2026;12:04 pm;See Race 110;
+92;Elite Women;V6;1500;Final;21 Aug 2026;12:11 pm;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+93;Corporate;V1;2;Heat 1 / 4;21 Aug 2026;12:23 pm;;
+94;Para Men (VLVI);V1;250;St. Final;21 Aug 2026;12:33 pm;;
+95;Master 75 Women;V1;500;Repechage 1 / 1;21 Aug 2026;12:40 pm;See Race 265;
+96;Corporate;V1;2;Heat 2 / 4;21 Aug 2026;12:45 pm;;
+97;Master 60 Women;V1;500;Semi 1 / 2;21 Aug 2026;12:55 pm;;GER, Ingrid Juchem, Birgit Plank
+98;Para Women (VL4);V1;250;St. Final;21 Aug 2026;1:00 pm;;
+99;Corporate;V1;2;Heat 3 / 4;21 Aug 2026;1:07 pm;;
+100;Master 60 Women;V1;500;Semi 2 / 2;21 Aug 2026;1:17 pm;See Race 193;GER, Ingrid Juchem, Birgit Plank
+101;Corporate;V1;2;Heat 4 / 4;21 Aug 2026;1:22 pm;See Race 108;
+102;Para Women (VL2);V1;250;St. Final;21 Aug 2026;1:32 pm;;
+103;Elite Men;V6;500;Semi 1 / 2;21 Aug 2026;1:39 pm;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+104;Para Women (VLVI);V1;250;St. Final;21 Aug 2026;1:46 pm;;
+105;Elite Men;V6;500;Semi 2 / 2;21 Aug 2026;1:53 pm;See Race 112;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+106;Para Women (VL3);V1;250;St. Final;21 Aug 2026;2:00 pm;;
+107;Master 60 Men;V1;500;Semi 1 / 2;21 Aug 2026;2:07 pm;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+108;Corporate;V1;2 Bowl;Final;21 Aug 2026;2:12 pm;;
+109;Master 60 Men;V1;500;Semi 2 / 2;21 Aug 2026;2:22 pm;See Race 191;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+110;Para Men (VL4);V1;250;Final;21 Aug 2026;2:27 pm;;
+111;Corporate;V1;2 Plate;Final;21 Aug 2026;2:34 pm;See Race 113;
+112;Elite Men;V6;500;Final;21 Aug 2026;2:44 pm;;GER, Marcel Ehlis, Marek Fuhrmann, Lennart Kreys, Torben Kuhlmann, Marbod Lemke, Florian Späth
+113;Corporate;V1;2 Cup;Final;21 Aug 2026;2:51 pm;See Race 116;
+114;Elite Women;V6;500;Final;21 Aug 2026;3:01 pm;;GER, Lara Ehlis, Lydia Elstermeier, Jana Giersch, Vanessa Holznagel, Jamie Lee Schaare, Karina Schnittker
+115;Para Men (VL3);V1;250;Final;21 Aug 2026;3:08 pm;;
+116;Corporate;V1;2 Cham;p;21 Aug 2026;Final;3:15 pm;
+117;Elite Junior Men;V6;500;Final;21 Aug 2026;3:25 pm;;
+118;Elite Junior Women;V6;500;Final;21 Aug 2026;3:32 pm;;
+119;Master 60 Women;V1;2 500;Heat 1 / 2;22 Aug 2026;8:00 am;;GER, Ingrid Juchem, Birgit Plank
+120;Para Men (VL1);V1;500;St. Final;22 Aug 2026;8:07 am;;
+121;Master 40 Men;V1;500;Heat 1 / 7;22 Aug 2026;8:17 am;;GER, André Niemann, Florian Späth
+122;Master 60 Women;V1;2 500;Heat 2 / 2;22 Aug 2026;8:22 am;See Race 251;GER, Ingrid Juchem, Birgit Plank
+123;Master 40 Men;V1;500;Heat 2 / 7;22 Aug 2026;8:29 am;;GER, André Niemann, Florian Späth
+124;Master 40 Men;V1;500;Heat 3 / 7;22 Aug 2026;8:34 am;;GER, André Niemann, Florian Späth
+125;Master 70 Men;V1;2 500;Heat 1 / 2;22 Aug 2026;8:39 am;;GER, Volker Briel
+126;Para Men (VL2);V1;500;St. Final;22 Aug 2026;8:46 am;;
+127;Master 40 Men;V1;500;Heat 4 / 7;22 Aug 2026;8:56 am;;GER, André Niemann, Florian Späth
+128;Master 70 Men;V1;2 500;Heat 2 / 2;22 Aug 2026;9:01 am;See Race 207;GER, Volker Briel
+129;Master 40 Men;V1;500;Heat 5 / 7;22 Aug 2026;9:08 am;;GER, André Niemann, Florian Späth
+130;Master 40 Men;V1;500;Heat 6 / 7;22 Aug 2026;9:13 am;;GER, André Niemann, Florian Späth
+131;Master 70 Women;V1;2 500;Heat 1 / 2;22 Aug 2026;9:18 am;;
+132;Para Men (VL3);V1;500;Heat 1 / 2;22 Aug 2026;9:25 am;;
+133;Master 40 Men;V1;500;Heat 7 / 7;22 Aug 2026;9:35 am;See Race 221;GER, André Niemann, Florian Späth
+134;Master 70 Women;V1;2 500;Heat 2 / 2;22 Aug 2026;9:40 am;See Race 210;
+135;Master 40 Women;V1;500;Heat 1 / 7;22 Aug 2026;9:47 am;;GER, Laura Birse, Christiane Pape
+136;Master 40 Women;V1;500;Heat 2 / 7;22 Aug 2026;9:52 am;;GER, Laura Birse, Christiane Pape
+137;Master 60 Men;V1;2 500;Heat 1 / 2;22 Aug 2026;9:57 am;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+138;Para Men (VL3);V1;500;Heat 2 / 2;22 Aug 2026;10:04 am;See Race 176;
+139;Master 40 Women;V1;500;Heat 3 / 7;22 Aug 2026;10:14 am;;GER, Laura Birse, Christiane Pape
+140;Master 60 Men;V1;2 500;Heat 2 / 2;22 Aug 2026;10:19 am;See Race 222;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+141;Master 40 Women;V1;500;Heat 4 / 7;22 Aug 2026;10:26 am;;GER, Laura Birse, Christiane Pape
+142;Master 40 Women;V1;500;Heat 5 / 7;22 Aug 2026;10:31 am;;GER, Laura Birse, Christiane Pape
+143;Master 50 Men;V1;2 500;Heat 1 / 3;22 Aug 2026;10:36 am;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+144;Para Men (VL4);V1;500;Heat 1 / 2;22 Aug 2026;10:43 am;;
+145;Master 40 Women;V1;500;Heat 6 / 7;22 Aug 2026;10:53 am;;GER, Laura Birse, Christiane Pape
+146;Master 50 Men;V1;2 500;Heat 2 / 3;22 Aug 2026;10:58 am;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+147;Master 40 Women;V1;500;Heat 7 / 7;22 Aug 2026;11:05 am;See Race 269;GER, Laura Birse, Christiane Pape
+148;Junior 16 Women;V1;500;Heat 1 / 5;22 Aug 2026;11:10 am;;
+149;Master 50 Men;V1;2 500;Heat 3 / 3;22 Aug 2026;11:15 am;See Race 204;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+150;Para Men (VL4);V1;500;Heat 2 / 2;22 Aug 2026;11:22 am;See Race 180;
+151;Junior 16 Women;V1;500;Heat 2 / 5;22 Aug 2026;11:32 am;;
+152;Junior 16 Women;V1;500;Heat 3 / 5;22 Aug 2026;11:37 am;;
+153;Para Men (VLVI);V1;500;St. Final;22 Aug 2026;11:42 am;;
+154;Junior 16 Women;V1;500;Heat 4 / 5;22 Aug 2026;11:52 am;;
+155;Junior 16 Women;V1;500;Heat 5 / 5;22 Aug 2026;11:57 am;See Race 255;
+156;Junior 16 Men;V1;500;Heat 1 / 5;22 Aug 2026;12:02 pm;;
+157;Junior 16 Men;V1;500;Heat 2 / 5;22 Aug 2026;12:07 pm;;
+158;Junior 16 Men;V1;500;Heat 3 / 5;22 Aug 2026;12:12 pm;;
+159;Para Women (VL2);V1;500;St. Final;22 Aug 2026;12:17 pm;;
+160;Master 50 Women;V1;2 500;Heat 1 / 3;22 Aug 2026;12:27 pm;;GER, Gabriele Schweble-Juch
+161;Junior 16 Men;V1;500;Heat 4 / 5;22 Aug 2026;12:34 pm;;
+162;Junior 16 Men;V1;500;Heat 5 / 5;22 Aug 2026;12:39 pm;See Race 247;
+163;Master 50 Women;V1;2 500;Heat 2 / 3;22 Aug 2026;12:44 pm;;GER, Gabriele Schweble-Juch
+164;Para Women (VL3);V1;500;St. Final;22 Aug 2026;12:51 pm;;
+165;Master 80 Women;V1;250;Heat 1 / 2;22 Aug 2026;1:01 pm;;
+166;Master 50 Women;V1;2 500;Heat 3 / 3;22 Aug 2026;1:08 pm;See Race 260;GER, Gabriele Schweble-Juch
+167;Master 80 Women;V1;250;Heat 2 / 2;22 Aug 2026;1:15 pm;See Race 246;
+168;Junior 19 Men;V1;500;Heat 1 / 6;22 Aug 2026;1:22 pm;;GER, Emil Thissen
+169;Para Women (VL4);V1;500;St. Final;22 Aug 2026;1:27 pm;;
+170;Junior 19 Men;V1;500;Heat 2 / 6;22 Aug 2026;1:37 pm;;GER, Emil Thissen
+171;Junior 19 Men;V1;500;Heat 3 / 6;22 Aug 2026;1:42 pm;;GER, Emil Thissen
+172;Junior 19 Men;V1;500;Heat 4 / 6;22 Aug 2026;1:47 pm;;GER, Emil Thissen
+173;Para Women (VLVI);V1;500;St. Final;22 Aug 2026;1:52 pm;;
+174;Junior 19 Men;V1;500;Heat 5 / 6;22 Aug 2026;2:02 pm;;GER, Emil Thissen
+175;Master 40 Men;V1;2 500;Heat 1 / 3;22 Aug 2026;2:07 pm;;GER, André Niemann, Florian Späth
+176;Para Men (VL3);V1;500;Final;22 Aug 2026;2:14 pm;;
+177;Junior 19 Men;V1;500;Heat 6 / 6;22 Aug 2026;2:24 pm;See Race 258;GER, Emil Thissen
+178;Master 70 Men;V1;500;Repechage 1 / 1;22 Aug 2026;2:29 pm;See Race 215;GER, Volker Briel
+179;Master 40 Men;V1;2 500;Heat 2 / 3;22 Aug 2026;2:34 pm;;GER, André Niemann, Florian Späth
+180;Para Men (VL4);V1;500;Final;22 Aug 2026;2:41 pm;;
+181;Master 70 Women;V1;500;Repechage 1 / 1;22 Aug 2026;2:51 pm;See Race 218;
+182;Master 40 Men;V1;2 500;Heat 3 / 3;22 Aug 2026;2:56 pm;See Race 248;GER, André Niemann, Florian Späth
+183;Open Men;V1;2 500;Heat 1 / 4;23 Aug 2026;8:00 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+184;Junior 19 Women;V1;500;Heat 1 / 5;23 Aug 2026;8:07 am;;GER, Ricarda Juch
+185;Junior 19 Women;V1;500;Heat 2 / 5;23 Aug 2026;8:12 am;;GER, Ricarda Juch
+186;Open Men;V1;2 500;Heat 2 / 4;23 Aug 2026;8:17 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+187;Junior 19 Women;V1;500;Heat 3 / 5;23 Aug 2026;8:24 am;;GER, Ricarda Juch
+188;Junior 19 Women;V1;500;Heat 4 / 5;23 Aug 2026;8:29 am;;GER, Ricarda Juch
+189;Open Men;V1;2 500;Heat 3 / 4;23 Aug 2026;8:34 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+190;Junior 19 Women;V1;500;Heat 5 / 5;23 Aug 2026;8:41 am;See Race 266;GER, Ricarda Juch
+191;Master 60 Men;V1;500;Final;23 Aug 2026;8:46 am;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+192;Open Men;V1;2 500;Heat 4 / 4;23 Aug 2026;8:51 am;See Race 231;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+193;Master 60 Women;V1;500;Final;23 Aug 2026;8:58 am;;GER, Ingrid Juchem, Birgit Plank
+194;Master 50 Women;V1;500;Heat 1 / 6;23 Aug 2026;9:03 am;;GER, Gabriele Schweble-Juch
+195;Open Women;V1;2 500;Heat 1 / 3;23 Aug 2026;9:08 am;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+196;Master 50 Women;V1;500;Heat 2 / 6;23 Aug 2026;9:15 am;;GER, Gabriele Schweble-Juch
+197;Master 50 Women;V1;500;Heat 3 / 6;23 Aug 2026;9:20 am;;GER, Gabriele Schweble-Juch
+198;Open Women;V1;2 500;Heat 2 / 3;23 Aug 2026;9:25 am;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+199;Master 50 Women;V1;500;Heat 4 / 6;23 Aug 2026;9:32 am;;GER, Gabriele Schweble-Juch
+200;Master 50 Women;V1;500;Heat 5 / 6;23 Aug 2026;9:37 am;;GER, Gabriele Schweble-Juch
+201;Open Women;V1;2 500;Heat 3 / 3;23 Aug 2026;9:42 am;See Race 254;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+202;Master 50 Women;V1;500;Heat 6 / 6;23 Aug 2026;9:49 am;See Race 242;GER, Gabriele Schweble-Juch
+203;Open Men;V1;500;Heat 1 / 8;23 Aug 2026;9:54 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+204;Master 50 Men;V1;2 500;Repechage 1 / 1;23 Aug 2026;9:59 am;See Race 257;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+205;Open Men;V1;500;Heat 2 / 8;23 Aug 2026;10:06 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+206;Open Men;V1;500;Heat 3 / 8;23 Aug 2026;10:11 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+207;Master 70 Men;V1;2 500;Final;23 Aug 2026;10:16 am;;GER, Volker Briel
+208;Open Men;V1;500;Heat 4 / 8;23 Aug 2026;10:23 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+209;Open Men;V1;500;Heat 5 / 8;23 Aug 2026;10:28 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+210;Master 70 Women;V1;2 500;Final;23 Aug 2026;10:33 am;;
+211;Open Men;V1;500;Heat 6 / 8;23 Aug 2026;10:40 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+212;Open Men;V1;500;Heat 7 / 8;23 Aug 2026;10:45 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+213;Master 40 Women;V1;2 500;Heat 1 / 3;23 Aug 2026;10:50 am;;GER, Laura Birse, Christiane Pape
+214;Open Men;V1;500;Heat 8 / 8;23 Aug 2026;10:57 am;See Race 250;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+215;Master 70 Men;V1;500;Semi 1 / 2;23 Aug 2026;11:02 am;;GER, Volker Briel
+216;Master 40 Women;V1;2 500;Heat 2 / 3;23 Aug 2026;11:07 am;;GER, Laura Birse, Christiane Pape
+217;Master 70 Men;V1;500;Semi 2 / 2;23 Aug 2026;11:14 am;See Race 321;GER, Volker Briel
+218;Master 70 Women;V1;500;Semi 1 / 2;23 Aug 2026;11:19 am;;
+219;Master 40 Women;V1;2 500;Heat 3 / 3;23 Aug 2026;11:24 am;See Race 261;GER, Laura Birse, Christiane Pape
+220;Master 70 Women;V1;500;Semi 2 / 2;23 Aug 2026;11:31 am;See Race 319;
+221;Master 40 Men;V1;500;Repechage 1 / 2;23 Aug 2026;11:36 am;;GER, André Niemann, Florian Späth
+222;Master 60 Men;V1;2 500;Final;23 Aug 2026;11:41 am;;GER, Jürgen Callies, Thomas Eilert, Jens Rutz
+223;Master 40 Men;V1;500;Repechage 2 / 2;23 Aug 2026;11:48 am;See Race 262;GER, André Niemann, Florian Späth
+224;Open Women;V1;500;Heat 1 / 6;23 Aug 2026;11:53 am;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+225;Junior 19 Men;V1;2 500;Heat 1 / 2;23 Aug 2026;11:58 am;;GER, Emil Thissen
+226;Open Women;V1;500;Heat 2 / 6;23 Aug 2026;12:05 pm;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+227;Open Women;V1;500;Heat 3 / 6;23 Aug 2026;12:10 pm;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+228;Junior 19 Men;V1;2 500;Heat 2 / 2;23 Aug 2026;12:15 pm;See Race 245;GER, Emil Thissen
+229;Open Women;V1;500;Heat 4 / 6;23 Aug 2026;12:22 pm;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+230;Open Women;V1;500;Heat 5 / 6;23 Aug 2026;12:27 pm;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+231;Open Men;V1;2 500;Repechage 1 / 1;23 Aug 2026;12:32 pm;See Race 267;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+232;Open Women;V1;500;Heat 6 / 6;23 Aug 2026;12:39 pm;See Race 281;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+233;Master 50 Men;V1;500;Heat 1 / 6;23 Aug 2026;12:44 pm;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+234;Master 75 Men;V1;2 500;St. Final;23 Aug 2026;12:49 pm;;
+235;Master 50 Men;V1;500;Heat 2 / 6;23 Aug 2026;12:56 pm;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+236;Master 50 Men;V1;500;Heat 3 / 6;23 Aug 2026;1:01 pm;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+237;Master 75 Women;V1;2 500;St. Final;23 Aug 2026;1:06 pm;;
+238;Master 50 Men;V1;500;Heat 4 / 6;23 Aug 2026;1:13 pm;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+239;Master 50 Men;V1;500;Heat 5 / 6;23 Aug 2026;1:18 pm;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+240;Junior 19 Women;V1;2 500;Heat 1 / 2;23 Aug 2026;1:23 pm;;GER, Ricarda Juch
+241;Master 50 Men;V1;500;Heat 6 / 6;23 Aug 2026;1:30 pm;See Race 272;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+242;Master 50 Women;V1;500;Repechage 1 / 2;23 Aug 2026;1:35 pm;;GER, Gabriele Schweble-Juch
+243;Junior 19 Women;V1;2 500;Heat 2 / 2;23 Aug 2026;1:40 pm;See Race 303;GER, Ricarda Juch
+244;Master 50 Women;V1;500;Repechage 2 / 2;23 Aug 2026;1:47 pm;See Race 294;GER, Gabriele Schweble-Juch
+245;Junior 19 Men;V1;2 500;Final;23 Aug 2026;1:52 pm;;GER, Emil Thissen
+246;Master 80 Women;V1;250;Final;23 Aug 2026;1:59 pm;;
+247;Junior 16 Men;V1;500;Repechage 1 / 2;23 Aug 2026;2:06 pm;;
+248;Master 40 Men;V1;2 500;Repechage 1 / 1;23 Aug 2026;2:11 pm;See Race 282;GER, André Niemann, Florian Späth
+249;Junior 16 Men;V1;500;Repechage 2 / 2;23 Aug 2026;2:18 pm;See Race 275;
+250;Open Men;V1;500;Repechage 1 / 3;23 Aug 2026;2:23 pm;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+251;Master 60 Women;V1;2 500;Final;23 Aug 2026;2:28 pm;;GER, Ingrid Juchem, Birgit Plank
+252;Open Men;V1;500;Repechage 2 / 3;23 Aug 2026;2:35 pm;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+253;Open Men;V1;500;Repechage 3 / 3;23 Aug 2026;2:40 pm;See Race 284;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+254;Open Women;V1;2 500;Repechage 1 / 1;23 Aug 2026;2:45 pm;See Race 276;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+255;Junior 16 Women;V1;500;Repechage 1 / 2;23 Aug 2026;2:52 pm;;
+256;Junior 16 Women;V1;500;Repechage 2 / 2;23 Aug 2026;2:57 pm;See Race 278;
+257;Master 50 Men;V1;2 500;Final;23 Aug 2026;3:02 pm;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+258;Junior 19 Men;V1;500;Repechage 1 / 2;23 Aug 2026;3:09 pm;;GER, Emil Thissen
+259;Junior 19 Men;V1;500;Repechage 2 / 2;23 Aug 2026;3:14 pm;See Race 288;GER, Emil Thissen
+260;Master 50 Women;V1;2 500;Repechage 1 / 1;23 Aug 2026;3:19 pm;See Race 279;GER, Gabriele Schweble-Juch
+261;Master 40 Women;V1;2 500;Repechage 1 / 1;24 Aug 2026;8:00 am;See Race 287;GER, Laura Birse, Christiane Pape
+262;Master 40 Men;V1;500;Semi 1 / 2;24 Aug 2026;8:07 am;;GER, André Niemann, Florian Späth
+263;Master 40 Men;V1;500;Semi 2 / 2;24 Aug 2026;8:12 am;See Race 316;GER, André Niemann, Florian Späth
+264;Junior 16 Men;V1;2 500;St. Final;24 Aug 2026;8:17 am;;
+265;Master 75 Women;V1;500;Final;24 Aug 2026;8:24 am;;
+266;Junior 19 Women;V1;500;Repechage 1 / 2;24 Aug 2026;8:29 am;;GER, Ricarda Juch
+267;Open Men;V1;2 500;Semi 1 / 2;24 Aug 2026;8:34 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+268;Junior 19 Women;V1;500;Repechage 2 / 2;24 Aug 2026;8:41 am;See Race 291;GER, Ricarda Juch
+269;Master 40 Women;V1;500;Repechage 1 / 2;24 Aug 2026;8:46 am;;GER, Laura Birse, Christiane Pape
+270;Open Men;V1;2 500;Semi 2 / 2;24 Aug 2026;8:51 am;See Race 327;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+271;Master 40 Women;V1;500;Repechage 2 / 2;24 Aug 2026;8:58 am;See Race 302;GER, Laura Birse, Christiane Pape
+272;Master 50 Men;V1;500;Repechage 1 / 2;24 Aug 2026;9:03 am;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+273;Junior 16 Women;V1;2 500;St. Final;24 Aug 2026;9:08 am;;
+274;Master 50 Men;V1;500;Repechage 2 / 2;24 Aug 2026;9:15 am;See Race 299;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+275;Junior 16 Men;V1;500;Semi 1 / 2;24 Aug 2026;9:20 am;;
+276;Open Women;V1;2 500;Final;24 Aug 2026;9:25 am;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+277;Junior 16 Men;V1;500;Semi 2 / 2;24 Aug 2026;9:32 am;See Race 297;
+278;Junior 16 Women;V1;500;Semi 1 / 2;24 Aug 2026;9:37 am;;
+279;Master 50 Women;V1;2 500;Final;24 Aug 2026;9:42 am;;GER, Gabriele Schweble-Juch
+280;Junior 16 Women;V1;500;Semi 2 / 2;24 Aug 2026;9:49 am;See Race 309;
+281;Open Women;V1;500;Repechage 1 / 2;24 Aug 2026;9:54 am;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+282;Master 40 Men;V1;2 500;Final;24 Aug 2026;9:59 am;;GER, André Niemann, Florian Späth
+283;Open Women;V1;500;Repechage 2 / 2;24 Aug 2026;10:06 am;See Race 306;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+284;Open Men;V1;500;Semi 1 / 2;24 Aug 2026;10:11 am;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+285;Master 70 Women;V6;1000;Heat 1 / 4;24 Aug 2026;10:16 am;;
+286;Open Men;V1;500;Semi 2 / 2;24 Aug 2026;10:26 am;See Race 315;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+287;Master 40 Women;V1;2 500;Final;24 Aug 2026;10:31 am;;GER, Laura Birse, Christiane Pape
+288;Junior 19 Men;V1;500;Semi 1 / 2;24 Aug 2026;10:38 am;;GER, Emil Thissen
+289;Master 70 Women;V6;1000;Heat 2 / 4;24 Aug 2026;10:43 am;;
+290;Junior 19 Men;V1;500;Semi 2 / 2;24 Aug 2026;10:53 am;See Race 310;GER, Emil Thissen
+291;Junior 19 Women;V1;500;Semi 1 / 2;24 Aug 2026;10:58 am;;GER, Ricarda Juch
+292;Master 70 Women;V6;1000;Heat 3 / 4;24 Aug 2026;11:03 am;;
+293;Junior 19 Women;V1;500;Semi 2 / 2;24 Aug 2026;11:13 am;See Race 318;GER, Ricarda Juch
+294;Master 50 Women;V1;500;Semi 1 / 2;24 Aug 2026;11:18 am;;GER, Gabriele Schweble-Juch
+295;Master 70 Women;V6;1000;Heat 4 / 4;24 Aug 2026;11:23 am;See Race 410;
+296;Master 50 Women;V1;500;Semi 2 / 2;24 Aug 2026;11:33 am;See Race 313;GER, Gabriele Schweble-Juch
+297;Junior 16 Men;V1;500;Final;24 Aug 2026;11:38 am;;
+298;Master 70 Men;V6;1000;Heat 1 / 4;24 Aug 2026;11:43 am;;
+299;Master 50 Men;V1;500;Semi 1 / 2;24 Aug 2026;11:53 am;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+300;Master 50 Men;V1;500;Semi 2 / 2;24 Aug 2026;11:58 am;See Race 322;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+301;Master 70 Men;V6;1000;Heat 2 / 4;24 Aug 2026;12:03 pm;;
+302;Master 40 Women;V1;500;Semi 1 / 2;24 Aug 2026;12:13 pm;;GER, Laura Birse, Christiane Pape
+303;Junior 19 Women;V1;2 500;Final;24 Aug 2026;12:18 pm;;GER, Ricarda Juch
+304;Master 40 Women;V1;500;Semi 2 / 2;24 Aug 2026;12:25 pm;See Race 324;GER, Laura Birse, Christiane Pape
+305;Master 70 Men;V6;1000;Heat 3 / 4;24 Aug 2026;12:30 pm;;
+306;Open Women;V1;500;Semi 1 / 2;24 Aug 2026;12:40 pm;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+307;Open Women;V1;500;Semi 2 / 2;24 Aug 2026;12:45 pm;See Race 325;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+308;Master 70 Men;V6;1000;Heat 4 / 4;24 Aug 2026;12:50 pm;See Race 408;
+309;Junior 16 Women;V1;500;Final;24 Aug 2026;1:00 pm;;
+310;Junior 19 Men;V1;500;Final;24 Aug 2026;1:05 pm;;GER, Emil Thissen
+311;Master 60 Men;V6;1000;Heat 1 / 6;24 Aug 2026;1:10 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+312;Master 75 Men;V1;500;Final;24 Aug 2026;1:20 pm;;
+313;Master 50 Women;V1;500;Final;24 Aug 2026;1:25 pm;;GER, Gabriele Schweble-Juch
+314;Master 60 Men;V6;1000;Heat 2 / 6;24 Aug 2026;1:30 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+315;Open Men;V1;500;Final;24 Aug 2026;1:40 pm;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+316;Master 40 Men;V1;500;Final;24 Aug 2026;1:45 pm;;GER, André Niemann, Florian Späth
+317;Master 60 Men;V6;1000;Heat 3 / 6;24 Aug 2026;1:50 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+318;Junior 19 Women;V1;500;Final;24 Aug 2026;2:00 pm;;GER, Ricarda Juch
+319;Master 70 Women;V1;500;Final;24 Aug 2026;2:05 pm;;
+320;Master 60 Men;V6;1000;Heat 4 / 6;24 Aug 2026;2:10 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+321;Master 70 Men;V1;500;Final;24 Aug 2026;2:20 pm;;GER, Volker Briel
+322;Master 50 Men;V1;500;Final;24 Aug 2026;2:25 pm;;GER, Heiko Bütehorn, Lars Littfin, Marbod Lemke
+323;Master 60 Men;V6;1000;Heat 5 / 6;24 Aug 2026;2:30 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+324;Master 40 Women;V1;500;Final;24 Aug 2026;2:40 pm;;GER, Laura Birse, Christiane Pape
+325;Open Women;V1;500;Final;24 Aug 2026;2:45 pm;;GER, Lara Ehlis, Jana Giersch, Jamie Lee Schaare
+326;Master 60 Men;V6;1000;Heat 6 / 6;24 Aug 2026;2:50 pm;See Race 402;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+327;Open Men;V1;2 500;Final;24 Aug 2026;3:00 pm;;GER, Lars Dobrow, Marcel Ehlis, Torben Kuhlmann
+328;Master 60 Women;V6;1000;Heat 1 / 6;25 Aug 2026;8:00 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+329;Master 60 Women;V6;1000;Heat 2 / 6;25 Aug 2026;8:10 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+330;Master 60 Women;V6;1000;Heat 3 / 6;25 Aug 2026;8:20 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+331;Master 60 Women;V6;1000;Heat 4 / 6;25 Aug 2026;8:30 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+332;Master 60 Women;V6;1000;Heat 5 / 6;25 Aug 2026;8:40 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+333;Master 60 Women;V6;1000;Heat 6 / 6;25 Aug 2026;8:50 am;See Race 424;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+334;Master 80 Men;V6;500 (turn);St. Final;25 Aug 2026;9:00 am;;
+335;Master 80 Women;V6;500 (turn);St. Final;25 Aug 2026;9:10 am;;
+336;Master 40 Women;V6;1000;Heat 1 / 8;25 Aug 2026;9:20 am;;
+337;Master 40 Women;V6;1000;Heat 2 / 8;25 Aug 2026;9:27 am;;
+338;Master 40 Women;V6;1000;Heat 3 / 8;25 Aug 2026;9:34 am;;
+339;Master 40 Women;V6;1000;Heat 4 / 8;25 Aug 2026;9:41 am;;
+340;Master 40 Women;V6;1000;Heat 5 / 8;25 Aug 2026;9:48 am;;
+341;Master 40 Women;V6;1000;Heat 6 / 8;25 Aug 2026;9:55 am;;
+342;Master 40 Women;V6;1000;Heat 7 / 8;25 Aug 2026;10:02 am;;
+343;Master 40 Women;V6;1000;Heat 8 / 8;25 Aug 2026;10:09 am;See Race 415;
+344;Master 40 Men;V6;1000;Heat 1 / 7;25 Aug 2026;10:16 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+345;Master 40 Men;V6;1000;Heat 2 / 7;25 Aug 2026;10:23 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+346;Master 40 Men;V6;1000;Heat 3 / 7;25 Aug 2026;10:30 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+347;Master 40 Men;V6;1000;Heat 4 / 7;25 Aug 2026;10:37 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+348;Master 40 Men;V6;1000;Heat 5 / 7;25 Aug 2026;10:44 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+349;Master 40 Men;V6;1000;Heat 6 / 7;25 Aug 2026;10:51 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+350;Master 40 Men;V6;1000;Heat 7 / 7;25 Aug 2026;10:58 am;See Race 412;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+351;Master 75 Women;V6;500 (turn);Heat 1 / 3;25 Aug 2026;11:05 am;;
+352;Master 75 Women;V6;500 (turn);Heat 2 / 3;25 Aug 2026;11:15 am;;
+353;Master 75 Women;V6;500 (turn);Heat 3 / 3;25 Aug 2026;11:25 am;See Race 419;
+354;Master 75 Men;V6;500 (turn);Heat 1 / 2;25 Aug 2026;11:35 am;;
+355;Master 75 Men;V6;500 (turn);Heat 2 / 2;25 Aug 2026;11:45 am;See Race 418;
+356;Master 50 Men;V6;1000;Heat 1 / 7;25 Aug 2026;11:55 am;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+357;Master 50 Men;V6;1000;Heat 2 / 7;25 Aug 2026;12:05 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+358;Master 50 Men;V6;1000;Heat 3 / 7;25 Aug 2026;12:15 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+359;Master 50 Men;V6;1000;Heat 4 / 7;25 Aug 2026;12:25 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+360;Master 50 Men;V6;1000;Heat 5 / 7;25 Aug 2026;12:35 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+361;Master 50 Men;V6;1000;Heat 6 / 7;25 Aug 2026;12:45 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+362;Master 50 Men;V6;1000;Heat 7 / 7;25 Aug 2026;12:55 pm;See Race 421;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+363;Junior 16 Men;V6;1000;Heat 1 / 3;25 Aug 2026;1:05 pm;;
+364;Junior 16 Men;V6;1000;Heat 2 / 3;25 Aug 2026;1:12 pm;;
+365;Junior 16 Men;V6;1000;Heat 3 / 3;25 Aug 2026;1:19 pm;See Race 427;
+366;Junior 16 Women;V6;1000;Heat 1 / 4;25 Aug 2026;1:26 pm;;
+367;Junior 16 Women;V6;1000;Heat 2 / 4;25 Aug 2026;1:33 pm;;
+368;Junior 16 Women;V6;1000;Heat 3 / 4;25 Aug 2026;1:40 pm;;
+369;Junior 16 Women;V6;1000;Heat 4 / 4;25 Aug 2026;1:47 pm;See Race 429;
+370;Master 50 Women;V6;1000;Heat 1 / 8;25 Aug 2026;1:54 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+371;Master 50 Women;V6;1000;Heat 2 / 8;25 Aug 2026;2:04 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+372;Master 50 Women;V6;1000;Heat 3 / 8;25 Aug 2026;2:14 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+373;Master 50 Women;V6;1000;Heat 4 / 8;25 Aug 2026;2:24 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+374;Master 50 Women;V6;1000;Heat 5 / 8;25 Aug 2026;2:34 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+375;Master 50 Women;V6;1000;Heat 6 / 8;25 Aug 2026;2:44 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+376;Master 50 Women;V6;1000;Heat 7 / 8;25 Aug 2026;2:54 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+377;Master 50 Women;V6;1000;Heat 8 / 8;25 Aug 2026;3:04 pm;See Race 405;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+378;Junior 19 Women;V6;1000;Heat 1 / 4;25 Aug 2026;3:14 pm;;
+379;Junior 19 Women;V6;1000;Heat 2 / 4;25 Aug 2026;3:21 pm;;
+380;Junior 19 Women;V6;1000;Heat 3 / 4;25 Aug 2026;3:28 pm;;
+381;Junior 19 Women;V6;1000;Heat 4 / 4;25 Aug 2026;3:35 pm;See Race 433;
+382;Junior 19 Men;V6;1000;Heat 1 / 4;25 Aug 2026;3:42 pm;;
+383;Junior 19 Men;V6;1000;Heat 2 / 4;25 Aug 2026;3:49 pm;;
+384;Junior 19 Men;V6;1000;Heat 3 / 4;25 Aug 2026;3:56 pm;;
+385;Junior 19 Men;V6;1000;Heat 4 / 4;25 Aug 2026;4:03 pm;See Race 431;
+386;Open Men;V6;1500;Heat 1 / 9;26 Aug 2026;8:00 am;;
+387;Open Men;V6;1500;Heat 2 / 9;26 Aug 2026;8:12 am;;
+388;Open Men;V6;1500;Heat 3 / 9;26 Aug 2026;8:24 am;;
+389;Open Men;V6;1500;Heat 4 / 9;26 Aug 2026;8:36 am;;
+390;Open Men;V6;1500;Heat 5 / 9;26 Aug 2026;8:48 am;;
+391;Open Men;V6;1500;Heat 6 / 9;26 Aug 2026;9:00 am;;
+392;Open Men;V6;1500;Heat 7 / 9;26 Aug 2026;9:12 am;;
+393;Open Men;V6;1500;Heat 8 / 9;26 Aug 2026;9:24 am;;
+394;Open Men;V6;1500;Heat 9 / 9;26 Aug 2026;9:36 am;See Race 435;
+395;Open Women;V6;1500;Heat 1 / 7;26 Aug 2026;9:48 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+396;Open Women;V6;1500;Heat 2 / 7;26 Aug 2026;10:00 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+397;Open Women;V6;1500;Heat 3 / 7;26 Aug 2026;10:12 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+398;Open Women;V6;1500;Heat 4 / 7;26 Aug 2026;10:24 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+399;Open Women;V6;1500;Heat 5 / 7;26 Aug 2026;10:36 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+400;Open Women;V6;1500;Heat 6 / 7;26 Aug 2026;10:48 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+401;Open Women;V6;1500;Heat 7 / 7;26 Aug 2026;11:00 am;See Race 438;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+402;Master 60 Men;V6;1000;Repechage 1 / 3;26 Aug 2026;11:12 am;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+403;Master 60 Men;V6;1000;Repechage 2 / 3;26 Aug 2026;11:22 am;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+404;Master 60 Men;V6;1000;Repechage 3 / 3;26 Aug 2026;11:32 am;See Race 457;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+405;Master 50 Women;V6;1000;Repechage 1 / 3;26 Aug 2026;11:42 am;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+406;Master 50 Women;V6;1000;Repechage 2 / 3;26 Aug 2026;11:52 am;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+407;Master 50 Women;V6;1000;Repechage 3 / 3;26 Aug 2026;12:02 pm;See Race 441;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+408;Master 70 Men;V6;1000;Repechage 1 / 2;26 Aug 2026;12:12 pm;;
+409;Master 70 Men;V6;1000;Repechage 2 / 2;26 Aug 2026;12:22 pm;See Race 447;
+410;Master 70 Women;V6;1000;Repechage 1 / 2;26 Aug 2026;12:32 pm;;
+411;Master 70 Women;V6;1000;Repechage 2 / 2;26 Aug 2026;12:42 pm;See Race 445;
+412;Master 40 Men;V6;1000;Repechage 1 / 3;26 Aug 2026;12:52 pm;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+413;Master 40 Men;V6;1000;Repechage 2 / 3;26 Aug 2026;12:59 pm;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+414;Master 40 Men;V6;1000;Repechage 3 / 3;26 Aug 2026;1:06 pm;See Race 451;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+415;Master 40 Women;V6;1000;Repechage 1 / 3;26 Aug 2026;1:13 pm;;
+416;Master 40 Women;V6;1000;Repechage 2 / 3;26 Aug 2026;1:20 pm;;
+417;Master 40 Women;V6;1000;Repechage 3 / 3;26 Aug 2026;1:27 pm;See Race 449;
+418;Master 75 Men;V6;500 (turn);Repechage 1 / 1;26 Aug 2026;1:34 pm;See Race 477;
+419;Master 75 Women;V6;500 (turn);Repechage 1 / 2;26 Aug 2026;1:44 pm;;
+420;Master 75 Women;V6;500 (turn);Repechage 2 / 2;26 Aug 2026;1:54 pm;See Race 478;
+421;Master 50 Men;V6;1000;Repechage 1 / 3;26 Aug 2026;2:04 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+422;Master 50 Men;V6;1000;Repechage 2 / 3;26 Aug 2026;2:14 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+423;Master 50 Men;V6;1000;Repechage 3 / 3;26 Aug 2026;2:24 pm;See Race 443;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+424;Master 60 Women;V6;1000;Repechage 1 / 3;26 Aug 2026;2:34 pm;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+425;Master 60 Women;V6;1000;Repechage 2 / 3;26 Aug 2026;2:44 pm;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+426;Master 60 Women;V6;1000;Repechage 3 / 3;26 Aug 2026;2:54 pm;See Race 455;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+427;Junior 16 Men;V6;1000;Repechage 1 / 2;26 Aug 2026;3:04 pm;;
+428;Junior 16 Men;V6;1000;Repechage 2 / 2;26 Aug 2026;3:11 pm;See Race 469;
+429;Junior 16 Women;V6;1000;Repechage 1 / 2;26 Aug 2026;3:18 pm;;
+430;Junior 16 Women;V6;1000;Repechage 2 / 2;26 Aug 2026;3:25 pm;See Race 453;
+431;Junior 19 Men;V6;1000;Repechage 1 / 2;26 Aug 2026;3:32 pm;;
+432;Junior 19 Men;V6;1000;Repechage 2 / 2;26 Aug 2026;3:39 pm;See Race 459;
+433;Junior 19 Women;V6;1000;Repechage 1 / 2;26 Aug 2026;3:46 pm;;
+434;Junior 19 Women;V6;1000;Repechage 2 / 2;26 Aug 2026;3:53 pm;See Race 461;
+435;Open Men;V6;1500;Repechage 1 / 3;27 Aug 2026;8:00 am;;
+436;Open Men;V6;1500;Repechage 2 / 3;27 Aug 2026;8:12 am;;
+437;Open Men;V6;1500;Repechage 3 / 3;27 Aug 2026;8:24 am;See Race 465;
+438;Open Women;V6;1500;Repechage 1 / 3;27 Aug 2026;8:36 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+439;Open Women;V6;1500;Repechage 2 / 3;27 Aug 2026;8:48 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+440;Open Women;V6;1500;Repechage 3 / 3;27 Aug 2026;9:00 am;See Race 463;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+441;Master 50 Women;V6;1000;Semi 1 / 2;27 Aug 2026;9:12 am;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+442;Master 50 Women;V6;1000;Semi 2 / 2;27 Aug 2026;9:22 am;See Race 479;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+443;Master 50 Men;V6;1000;Semi 1 / 2;27 Aug 2026;9:32 am;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+444;Master 50 Men;V6;1000;Semi 2 / 2;27 Aug 2026;9:42 am;See Race 480;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+445;Master 70 Women;V6;1000;Semi 1 / 2;27 Aug 2026;9:52 am;;
+446;Master 70 Women;V6;1000;Semi 2 / 2;27 Aug 2026;10:02 am;See Race 468;
+447;Master 70 Men;V6;1000;Semi 1 / 2;27 Aug 2026;10:12 am;;
+448;Master 70 Men;V6;1000;Semi 2 / 2;27 Aug 2026;10:22 am;See Race 467;
+449;Master 40 Women;V6;1000;Semi 1 / 2;27 Aug 2026;10:32 am;;
+450;Master 40 Women;V6;1000;Semi 2 / 2;27 Aug 2026;10:39 am;See Race 471;
+451;Master 40 Men;V6;1000;Semi 1 / 2;27 Aug 2026;10:46 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+452;Master 40 Men;V6;1000;Semi 2 / 2;27 Aug 2026;10:53 am;See Race 472;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+453;Junior 16 Women;V6;1000;Semi 1 / 2;27 Aug 2026;11:00 am;;
+454;Junior 16 Women;V6;1000;Semi 2 / 2;27 Aug 2026;11:07 am;See Race 470;
+455;Master 60 Women;V6;1000;Semi 1 / 2;27 Aug 2026;11:14 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+456;Master 60 Women;V6;1000;Semi 2 / 2;27 Aug 2026;11:24 am;See Race 474;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+457;Master 60 Men;V6;1000;Semi 1 / 2;27 Aug 2026;11:34 am;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+458;Master 60 Men;V6;1000;Semi 2 / 2;27 Aug 2026;11:44 am;See Race 473;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+459;Junior 19 Men;V6;1000;Semi 1 / 2;27 Aug 2026;11:54 am;;
+460;Junior 19 Men;V6;1000;Semi 2 / 2;27 Aug 2026;12:01 pm;See Race 475;
+461;Junior 19 Women;V6;1000;Semi 1 / 2;27 Aug 2026;12:08 pm;;
+462;Junior 19 Women;V6;1000;Semi 2 / 2;27 Aug 2026;12:15 pm;See Race 476;
+463;Open Women;V6;1500;Semi 1 / 2;27 Aug 2026;12:22 pm;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+464;Open Women;V6;1500;Semi 2 / 2;27 Aug 2026;12:34 pm;See Race 481;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+465;Open Men;V6;1500;Semi 1 / 2;27 Aug 2026;12:46 pm;;
+466;Open Men;V6;1500;Semi 2 / 2;27 Aug 2026;12:58 pm;See Race 482;
+467;Master 70 Men;V6;1000;Final;27 Aug 2026;1:10 pm;;
+468;Master 70 Women;V6;1000;Final;27 Aug 2026;1:20 pm;;
+469;Junior 16 Men;V6;1000;Final;27 Aug 2026;1:30 pm;;
+470;Junior 16 Women;V6;1000;Final;27 Aug 2026;1:37 pm;;
+471;Master 40 Women;V6;1000;Final;27 Aug 2026;1:44 pm;;
+472;Master 40 Men;V6;1000;Final;27 Aug 2026;1:51 pm;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+473;Master 60 Men;V6;1000;Final;27 Aug 2026;1:58 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+474;Master 60 Women;V6;1000;Final;27 Aug 2026;2:08 pm;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+475;Junior 19 Men;V6;1000;Final;27 Aug 2026;2:18 pm;;
+476;Junior 19 Women;V6;1000;Final;27 Aug 2026;2:25 pm;;
+477;Master 75 Men;V6;500 (turn);Final;27 Aug 2026;2:32 pm;;
+478;Master 75 Women;V6;500 (turn);Final;27 Aug 2026;2:42 pm;;
+479;Master 50 Women;V6;1000;Final;27 Aug 2026;2:52 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+480;Master 50 Men;V6;1000;Final;27 Aug 2026;3:02 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+481;Open Women;V6;1500;Final;27 Aug 2026;3:12 pm;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+482;Open Men;V6;1500;Final;27 Aug 2026;3:24 pm;;
+483;Master 60 Men;V6;500;Heat 1 / 4;27 Aug 2026;3:36 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+484;Master 60 Men;V6;500;Heat 2 / 4;27 Aug 2026;3:43 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+485;Master 60 Men;V6;500;Heat 3 / 4;27 Aug 2026;3:50 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+486;Master 60 Men;V6;500;Heat 4 / 4;27 Aug 2026;3:57 pm;See Race 552;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+487;Master 75 Women;V6;500;Heat 1 / 2;28 Aug 2026;8:00 am;;
+488;Master 75 Women;V6;500;Heat 2 / 2;28 Aug 2026;8:07 am;See Race 589;
+489;Master 75 Men;V6;500;Heat 1 / 2;28 Aug 2026;8:14 am;;
+490;Master 75 Men;V6;500;Heat 2 / 2;28 Aug 2026;8:21 am;See Race 588;
+491;Master 60 Women;V6;500;Heat 1 / 5;28 Aug 2026;8:28 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+492;Master 60 Women;V6;500;Heat 2 / 5;28 Aug 2026;8:35 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+493;Master 60 Women;V6;500;Heat 3 / 5;28 Aug 2026;8:42 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+494;Master 60 Women;V6;500;Heat 4 / 5;28 Aug 2026;8:49 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+495;Master 60 Women;V6;500;Heat 5 / 5;28 Aug 2026;8:56 am;See Race 553;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+496;Junior 16 Men;V6;500;Heat 1 / 2;28 Aug 2026;9:03 am;;
+497;Junior 16 Men;V6;500;Heat 2 / 2;28 Aug 2026;9:10 am;See Race 593;
+498;Junior 16 Women;V6;500;Heat 1 / 3;28 Aug 2026;9:17 am;;
+499;Junior 16 Women;V6;500;Heat 2 / 3;28 Aug 2026;9:24 am;;
+500;Junior 16 Women;V6;500;Heat 3 / 3;28 Aug 2026;9:31 am;See Race 555;
+501;Master 70 Men;V6;500;Heat 1 / 3;28 Aug 2026;9:38 am;;
+502;Master 70 Men;V6;500;Heat 2 / 3;28 Aug 2026;9:45 am;;
+503;Master 70 Men;V6;500;Heat 3 / 3;28 Aug 2026;9:52 am;See Race 562;
+504;Master 70 Women;V6;500;Heat 1 / 3;28 Aug 2026;9:59 am;;
+505;Master 70 Women;V6;500;Heat 2 / 3;28 Aug 2026;10:06 am;;
+506;Master 70 Women;V6;500;Heat 3 / 3;28 Aug 2026;10:13 am;See Race 563;
+507;Master 40 Women;V6;500;Heat 1 / 7;28 Aug 2026;10:20 am;;
+508;Master 40 Women;V6;500;Heat 2 / 7;28 Aug 2026;10:27 am;;
+509;Master 40 Women;V6;500;Heat 3 / 7;28 Aug 2026;10:34 am;;
+510;Master 40 Women;V6;500;Heat 4 / 7;28 Aug 2026;10:41 am;;
+511;Master 40 Women;V6;500;Heat 5 / 7;28 Aug 2026;10:48 am;;
+512;Master 40 Women;V6;500;Heat 6 / 7;28 Aug 2026;10:55 am;;
+513;Master 40 Women;V6;500;Heat 7 / 7;28 Aug 2026;11:02 am;See Race 558;
+514;Master 40 Men;V6;500;Heat 1 / 5;28 Aug 2026;11:09 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+515;Master 40 Men;V6;500;Heat 2 / 5;28 Aug 2026;11:16 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+516;Master 40 Men;V6;500;Heat 3 / 5;28 Aug 2026;11:23 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+517;Master 40 Men;V6;500;Heat 4 / 5;28 Aug 2026;11:30 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+518;Master 40 Men;V6;500;Heat 5 / 5;28 Aug 2026;11:37 am;See Race 556;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+519;Junior 19 Men;V6;500;Heat 1 / 3;28 Aug 2026;11:44 am;;
+520;Junior 19 Men;V6;500;Heat 2 / 3;28 Aug 2026;11:51 am;;
+521;Junior 19 Men;V6;500;Heat 3 / 3;28 Aug 2026;11:58 am;See Race 561;
+522;Master 80 Women;V6;250;St. Final;28 Aug 2026;12:05 pm;;
+523;Master 80 Men;V6;250;St. Final;28 Aug 2026;12:12 pm;;
+524;Junior 19 Women;V6;500;Heat 1 / 3;28 Aug 2026;12:19 pm;;
+525;Junior 19 Women;V6;500;Heat 2 / 3;28 Aug 2026;12:26 pm;;
+526;Junior 19 Women;V6;500;Heat 3 / 3;28 Aug 2026;12:33 pm;See Race 560;
+527;Master 50 Men;V6;500;Heat 1 / 6;28 Aug 2026;12:40 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+528;Master 50 Men;V6;500;Heat 2 / 6;28 Aug 2026;12:47 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+529;Master 50 Men;V6;500;Heat 3 / 6;28 Aug 2026;12:54 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+530;Master 50 Men;V6;500;Heat 4 / 6;28 Aug 2026;1:01 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+531;Master 50 Men;V6;500;Heat 5 / 6;28 Aug 2026;1:08 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+532;Master 50 Men;V6;500;Heat 6 / 6;28 Aug 2026;1:15 pm;See Race 564;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+533;Master 50 Women;V6;500;Heat 1 / 6;28 Aug 2026;1:22 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+534;Master 50 Women;V6;500;Heat 2 / 6;28 Aug 2026;1:29 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+535;Master 50 Women;V6;500;Heat 3 / 6;28 Aug 2026;1:36 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+536;Master 50 Women;V6;500;Heat 4 / 6;28 Aug 2026;1:43 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+537;Master 50 Women;V6;500;Heat 5 / 6;28 Aug 2026;1:50 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+538;Master 50 Women;V6;500;Heat 6 / 6;28 Aug 2026;1:57 pm;See Race 566;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+539;Open Men;V6;500;Heat 1 / 7;28 Aug 2026;2:04 pm;;
+540;Open Men;V6;500;Heat 2 / 7;28 Aug 2026;2:11 pm;;
+541;Open Men;V6;500;Heat 3 / 7;28 Aug 2026;2:18 pm;;
+542;Open Men;V6;500;Heat 4 / 7;28 Aug 2026;2:25 pm;;
+543;Open Men;V6;500;Heat 5 / 7;28 Aug 2026;2:32 pm;;
+544;Open Men;V6;500;Heat 6 / 7;28 Aug 2026;2:39 pm;;
+545;Open Men;V6;500;Heat 7 / 7;28 Aug 2026;2:46 pm;See Race 568;
+546;Open Women;V6;500;Heat 1 / 6;28 Aug 2026;2:53 pm;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+547;Open Women;V6;500;Heat 2 / 6;28 Aug 2026;3:00 pm;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+548;Open Women;V6;500;Heat 3 / 6;28 Aug 2026;3:07 pm;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+549;Open Women;V6;500;Heat 4 / 6;28 Aug 2026;3:14 pm;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+550;Open Women;V6;500;Heat 5 / 6;28 Aug 2026;3:21 pm;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+551;Open Women;V6;500;Heat 6 / 6;28 Aug 2026;3:28 pm;See Race 570;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+552;Master 60 Men;V6;500;Repechage 1 / 1;29 Aug 2026;8:00 am;See Race 578;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+553;Master 60 Women;V6;500;Repechage 1 / 2;29 Aug 2026;8:07 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+554;Master 60 Women;V6;500;Repechage 2 / 2;29 Aug 2026;8:14 am;See Race 572;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+555;Junior 16 Women;V6;500;Repechage 1 / 1;29 Aug 2026;8:21 am;See Race 592;
+556;Master 40 Men;V6;500;Repechage 1 / 2;29 Aug 2026;8:28 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+557;Master 40 Men;V6;500;Repechage 2 / 2;29 Aug 2026;8:35 am;See Race 574;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+558;Master 40 Women;V6;500;Repechage 1 / 2;29 Aug 2026;8:42 am;;
+559;Master 40 Women;V6;500;Repechage 2 / 2;29 Aug 2026;8:49 am;See Race 576;
+560;Junior 19 Women;V6;500;Repechage 1 / 1;29 Aug 2026;8:56 am;See Race 598;
+561;Junior 19 Men;V6;500;Repechage 1 / 1;29 Aug 2026;9:03 am;See Race 599;
+562;Master 70 Men;V6;500;Repechage 1 / 1;29 Aug 2026;9:10 am;See Race 596;
+563;Master 70 Women;V6;500;Repechage 1 / 1;29 Aug 2026;9:17 am;See Race 597;
+564;Master 50 Men;V6;500;Repechage 1 / 2;29 Aug 2026;9:24 am;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+565;Master 50 Men;V6;500;Repechage 2 / 2;29 Aug 2026;9:31 am;See Race 586;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+566;Master 50 Women;V6;500;Repechage 1 / 2;29 Aug 2026;9:38 am;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+567;Master 50 Women;V6;500;Repechage 2 / 2;29 Aug 2026;9:45 am;See Race 580;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+568;Open Men;V6;500;Repechage 1 / 2;29 Aug 2026;9:52 am;;
+569;Open Men;V6;500;Repechage 2 / 2;29 Aug 2026;9:59 am;See Race 582;
+570;Open Women;V6;500;Repechage 1 / 2;29 Aug 2026;10:06 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+571;Open Women;V6;500;Repechage 2 / 2;29 Aug 2026;10:13 am;See Race 584;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+572;Master 60 Women;V6;500;Semi 1 / 2;29 Aug 2026;10:20 am;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+573;Master 60 Women;V6;500;Semi 2 / 2;29 Aug 2026;10:27 am;See Race 590;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+574;Master 40 Men;V6;500;Semi 1 / 2;29 Aug 2026;10:34 am;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+575;Master 40 Men;V6;500;Semi 2 / 2;29 Aug 2026;10:41 am;See Race 594;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+576;Master 40 Women;V6;500;Semi 1 / 2;29 Aug 2026;10:48 am;;
+577;Master 40 Women;V6;500;Semi 2 / 2;29 Aug 2026;10:55 am;See Race 595;
+578;Master 60 Men;V6;500;Semi 1 / 2;29 Aug 2026;11:02 am;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+579;Master 60 Men;V6;500;Semi 2 / 2;29 Aug 2026;11:09 am;See Race 591;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+580;Master 50 Women;V6;500;Semi 1 / 2;29 Aug 2026;11:16 am;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+581;Master 50 Women;V6;500;Semi 2 / 2;29 Aug 2026;11:23 am;See Race 601;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+582;Open Men;V6;500;Semi 1 / 2;29 Aug 2026;11:30 am;;
+583;Open Men;V6;500;Semi 2 / 2;29 Aug 2026;11:37 am;See Race 602;
+584;Open Women;V6;500;Semi 1 / 2;29 Aug 2026;11:44 am;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+585;Open Women;V6;500;Semi 2 / 2;29 Aug 2026;11:51 am;See Race 603;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
+586;Master 50 Men;V6;500;Semi 1 / 2;29 Aug 2026;11:58 am;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+587;Master 50 Men;V6;500;Semi 2 / 2;29 Aug 2026;12:05 pm;See Race 600;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+588;Master 75 Men;V6;500;Final;29 Aug 2026;12:12 pm;;
+589;Master 75 Women;V6;500;Final;29 Aug 2026;12:19 pm;;
+590;Master 60 Women;V6;500;Final;29 Aug 2026;12:26 pm;;GER, PG-Mannheim, Barbara Bialek, Monika Hoecker, Ingrid Juchem, Katherine Kaminski, Beate Ludes, Veronika Prijon, Annette Rüsing, Jana Sandmann
+591;Master 60 Men;V6;500;Final;29 Aug 2026;12:33 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Enno Schönung
+592;Junior 16 Women;V6;500;Final;29 Aug 2026;12:40 pm;;
+593;Junior 16 Men;V6;500;Final;29 Aug 2026;12:47 pm;;
+594;Master 40 Men;V6;500;Final;29 Aug 2026;12:54 pm;;GER, Germany South-West, Jürgen Callies, Stefan Heinrich, Marbod Lemke, Lars Littfin, André Niemann, Florian Späth
+595;Master 40 Women;V6;500;Final;29 Aug 2026;1:01 pm;;
+596;Master 70 Men;V6;500;Final;29 Aug 2026;1:08 pm;;
+597;Master 70 Women;V6;500;Final;29 Aug 2026;1:15 pm;;
+598;Junior 19 Women;V6;500;Final;29 Aug 2026;1:22 pm;;
+599;Junior 19 Men;V6;500;Final;29 Aug 2026;1:29 pm;;
+600;Master 50 Men;V6;500;Final;29 Aug 2026;1:36 pm;;GER, Va’a Alliance Mannheim Prenzlau, Martin Auffenfeld, Mariusz Bialek, Thomas Hoecker, Marbod Lemke, Marek Kaminski, Christoph Machinski, Darius Machinski, Miroslaw Olejnik, Christoph Rüsing, Enno Schönung, Ronald Ulrich
+601;Master 50 Women;V6;500;Final;29 Aug 2026;1:43 pm;;GER, Germany South-West, Jutta Brüggemann, Ulrike Bruns, Martina Förster, Tanja Keller, Maren Rutz, Nicole Scholl, Gabriele Schweble-Juch
+602;Open Men;V6;500;Final;29 Aug 2026;1:50 pm;;
+603;Open Women;V6;500;Final;29 Aug 2026;1:57 pm;;GER, Germany South-West, Laura Birse, Ulrike Bruns, Gaby Dieckmann, Ricarda Juch, Tanja Keller, Tetlana Lysiuk, Christiane Pape, Maren Rutz, Gabriele Schweble-Juch
