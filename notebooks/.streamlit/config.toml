@@ -1,0 +1,7 @@
+[theme]
+base = "light"  # Erzwingt Light Mode
+primaryColor = "#4CAF50"  # Grüne Akzente
+backgroundColor = "#FFFFFF"  # Weißer Hintergrund
+secondaryBackgroundColor = "#F0F2F6"  # Helle Sidebar
+textColor = "#000000"  # Schwarzer Text
+font = "sans serif"  # Schriftart
