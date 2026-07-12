@@ -1,6 +1,6 @@
 pathlib
 pandas
 streamlit
-pyrebase
+pyrebase4
 datetime
 matplotlib
