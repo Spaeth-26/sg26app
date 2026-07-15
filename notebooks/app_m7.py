@@ -80,7 +80,7 @@ def load_heating_data_from_firebase():
     end_time = datetime.now()
     end_ms = int(end_time.timestamp() * 1000)
     # 2. Daten abfragen (wenn Timestamp als Schlüssel)
-    # data = db.child("sensor_data").start_at(str(start_ms)).end_at(str(end_ms)).get()
+    # data = db.child("heating_status").start_at(str(start_ms)).end_at(str(end_ms)).get()
 
     # Daten in ein Pandas DataFrame überführen
     df = pd.DataFrame([item.val() for item in data.each()])
@@ -111,7 +111,21 @@ def aggregate_daily(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def format_month(month_number: int) -> str:
-    return pd.to_datetime(str(month_number), format="%m").strftime("%B")
+    month_names = {
+        1: "Januar",
+        2: "Februar",
+        3: "März",
+        4: "April",
+        5: "Mai",
+        6: "Juni",
+        7: "Juli",
+        8: "August",
+        9: "September",
+        10: "Oktober",
+        11: "November",
+        12: "Dezember",
+    }
+    return month_names.get(month_number, str(month_number))
 
 
 def main() -> None:
@@ -166,14 +180,20 @@ def main() -> None:
     st.markdown("### Tageswerte")
     display_table = month_data[["date", "tagesminuten"]].copy()
     display_table["date"] = display_table["date"].astype(str)
+    display_table["Betriebszeit (Std:Min)"] = display_table["tagesminuten"].apply(
+        lambda minutes: f"{minutes // 60:02d}:{minutes % 60:02d}"
+    )
     display_table = display_table.rename(
         columns={"date": "Datum", "tagesminuten": "Tagesminuten"}
     )
-    st.dataframe(display_table.reset_index(drop=True))
+    st.table(display_table.reset_index(drop=True))
 
     total_minutes = int(month_data["tagesminuten"].sum())
+    hours = total_minutes // 60
+    minutes = total_minutes % 60
+
     st.markdown(
-        f"**Monatssumme:** {total_minutes:,} Minuten Heizungsbetrieb im {month_name} {selected_year}."
+        f"**Monatssumme:** {hours:02d}:{minutes:02d} Stunden ({total_minutes:,} Minuten) Heizungsbetrieb im {month_name} {selected_year}."
     )
 
 
